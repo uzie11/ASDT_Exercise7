@@ -1,2 +1,3 @@
-VERSION=branch
+VERSION=resolved
 MAIN_EXTRA=1
+BRANCH_EXTRA=1
